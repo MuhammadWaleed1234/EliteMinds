@@ -9,7 +9,7 @@ const team = [
     name: "Muhammad Waleed",
     title: "Strategic Problem Solver",
     description: "Finds the easiest paths to fulfill requirements. Folio3 Internship winner.",
-    image: "/professional-man-entrepreneur.jpg",
+    image: "/Waleed.jpg",
     color: "from-purple-500 to-pink-500",
   },
   {
@@ -17,7 +17,7 @@ const team = [
     name: "Armeen Fatima",
     title: "Business Excellence Leader",
     description: "Perfectionist who presents work like a CEO. Nestle & Devsinc experience.",
-    image: "/professional-woman-business.jpg",
+    image: "/Armeen.jpg",
     color: "from-blue-500 to-cyan-500",
   },
   {
@@ -25,7 +25,7 @@ const team = [
     name: "Arooba Iqbal",
     title: "AI/ML Specialist",
     description: "Knows when to lock in. Bold feedback and AI/ML expertise from Devsinc.",
-    image: "/professional-woman-tech.jpg",
+    image: "/Arooba.jpg",
     color: "from-green-500 to-emerald-500",
   },
   {
@@ -33,7 +33,7 @@ const team = [
     name: "Muiz ul Islam Khan",
     title: "Peak Animator",
     description: "Pakistan's best animator. Mentor and future animation studio leader.",
-    image: "/professional-man-creative.jpg",
+    image: "/Muiz.jpg",
     color: "from-orange-500 to-red-500",
   },
   {
@@ -41,7 +41,7 @@ const team = [
     name: "Amaz Ahmed",
     title: "Full-Stack Developer",
     description: "Beauty with brains. MERN stack expert with international clients.",
-    image: "/professional-man-developer.jpg",
+    image: "/Amaz.jpg",
     color: "from-indigo-500 to-purple-500",
   },
 ]
